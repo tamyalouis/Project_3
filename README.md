@@ -42,6 +42,12 @@ This project follows the ETL (Extract, Transform, Load) workflow to process and 
 - **Feature Engineering:** 
   - Created a population density category (Low, Medium, High).
 
+# References
+
+- Colorado Department of Public Health and Environment (CDPHE): [https://cdphe.colorado.gov/](https://cdphe.colorado.gov/)
+- Python Pandas Documentation: [https://pandas.pydata.org/](https://pandas.pydata.org/)
+- SQLAlchemy Documentation: [https://docs.sqlalchemy.org/](https://docs.sqlalchemy.org/)
+
 ## 3. Load
 - The transformed data was stored in an SQLite database using SQLAlchemy.
 - Data can be queried using SQL commands for further analysis.
